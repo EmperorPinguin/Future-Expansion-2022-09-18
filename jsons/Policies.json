@@ -73,7 +73,7 @@
 			},
 			{
 				"name": "Military Tax",
-				"uniques": ["[+10]% [Gold] from every [Walls]","[+10]% [Gold] from every [Castle]","[+10]% [Gold] from every [Arsenal]","[+10]% [Gold] from every [Military Base]"]
+				"uniques": ["[+10]% [Gold] from every [Walls]","[+10]% [Gold] from every [Castle]","[+10]% [Gold] from every [Arsenal]","[+10]% [Gold] from every [Military Base]"],
 				"requires": ["Coalition"],
 				"row": 1,
 				"column": 3
@@ -101,7 +101,7 @@
 			},
 			{
 				"name": "Coalition Complete",
-				"uniques": ["Citadels provide adjacency bonuses as if they were Infraestructure Improvements"]
+				"uniques": ["Citadels provide adjacency bonuses as if they were Infrastructure Improvements"]
 			}
 		]
 	},
@@ -164,7 +164,7 @@
 	{
 		"name": "Technocracy",
 		"era": "Future era",
-		"uniques": ["[+25]% Strength <for [Cyber] units>", "[-25]% Strength <for [Bio] units>","[+20%] [Production] [in all cities]","[-15]% growth [in all cities]","Only available <before adopting [Futurism]>","Only available <before adopting [Transhumanism]>"],
+		"uniques": ["[+25]% Strength <for [Cyber] units>", "[-25]% Strength <for [Bio] units>","[+20]% [Production] [in all cities]","[-15]% growth [in all cities]","Only available <before adopting [Futurism]>","Only available <before adopting [Transhumanism]>"],
 		"priorities": {
             "Neutral": 40,
             "Cultural": 90,

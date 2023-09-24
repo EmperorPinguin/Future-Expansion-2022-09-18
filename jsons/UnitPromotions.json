@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Amphibious",
-		"uniques": ["Normal vision when embarked", "Defense bonus when embarked"]
+		"uniques": ["[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "Defense bonus when embarked"]
 	},
 	{
 		"name": "Hovering",

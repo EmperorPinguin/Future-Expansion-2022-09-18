@@ -17,45 +17,45 @@
 	{
 		"name": "Scientist Perk",
 		"resourceType": "Bonus",
-		"science": 1,
+		"science": 1
 	},
 	{
 		"name": "Artist Perk",
 		"resourceType": "Bonus",
-		"culture": 1,
+		"culture": 1
 	},
 	{
 		"name": "Engineer Perk",
 		"resourceType": "Bonus",
-		"production": 1,
+		"production": 1
 	},
 	{
 		"name": "Merchant Perk",
 		"resourceType": "Bonus",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Prophet Perk",
 		"resourceType": "Bonus",
-		"faith": 1,
+		"faith": 1
 	},
 	{
 		"name": "General Perk",
 		"resourceType": "Bonus",
-		"production": 1,
+		"production": 1
 	},
 	//Strategic
 	{
 		"name": "Power",
 		"resourceType": "Strategic",
 		"revealedBy": "Electricity",
-		"science": 1,
+		"science": 1
 	},
 	{
         "name": "Composites",
 		"resourceType": "Strategic",
 		"revealedBy": "Nanotechnology",
-		"production": 1,
+		"production": 1
 	},
 	{
 		"name": "Aluminum",
@@ -99,52 +99,52 @@
 	{
 		"name": "Corporation Slot(Total)",
 		"resourceType": "Bonus",
-		"gold": 1,
+		"gold": 1
 	},
 	{
 		"name": "Corporation Slot", 
 		"resourceType": "Strategic",
-		"revealedBy": "Corporations"
-		"gold": 1,
+		"revealedBy": "Corporations",
+		"gold": 1
 	},
 	{
 		"name": "Electrical Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Engineering Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Tourism Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Defense Force Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "World Delivery Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Social Network Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Space Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Holy Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
-	},
+		"gold": 2
+	}
 ]

@@ -60,8 +60,8 @@
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"requiredTech": "Industrialization"
-		"uniques": ["[+15]% [Production] [in this city] <with [Power]>"],
+		"requiredTech": "Industrialization",
+		"uniques": ["[+15]% [Production] [in this city] <with [Power]>"]
 	},
 		{
 		"name": "Coal Plant",
@@ -78,7 +78,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 0,
 		"requiredTech": "Biology",
-		"uniques": ["[+5]% [Food] [in this city] <with [Power]>"],
+		"uniques": ["[+5]% [Food] [in this city] <with [Power]>"]
 	},
 	{
 		"name": "Stock Exchange",
@@ -87,8 +87,8 @@
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Bank",
-		"requiredTech": "Electricity"
-		"uniques": ["[+15]% [Gold] [in this city] <with [Power]>"],
+		"requiredTech": "Electricity",
+		"uniques": ["[+15]% [Gold] [in this city] <with [Power]>"]
 	},
 	{
 		"name": "Hydro Plant",
@@ -124,7 +124,7 @@
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "Public School",
 		"maintenance": 3,
-		"requiredTech": "Plastics"
+		"requiredTech": "Plastics",
 		"uniques": ["Consumes [1] [Power]","[+2]% [Science]"]
 	},
 //Atomic
@@ -201,7 +201,7 @@
 		"Only available <in cities without a [Spaceship Factory]>",
 		"Only available <in cities without a [Private Grid]>",
 		"Only available <in cities without a [Foreign Center]>",
-		"Only available <in cities without a [Virtual Space]>"
+		"Only available <in cities without a [Virtual Space]>",
 		"Destroyed when the city is captured"]
 	},
 	{
@@ -209,13 +209,13 @@
 		"production": 3,
 		"specialistSlots": {"Spacefarer": 1},
 		"cost": 750,
-		"requiredTech": "Robotics"
+		"requiredTech": "Robotics",
 		"requiredBuilding": "Factory",
 		"uniques": ["Consumes [2] [Power]","Space","[+33]% Production when constructing [Space] units [in this city]","[+33]% Production when constructing [Space] buildings [in this city]",
 		"Unsellable",
 		"Only available <in cities without a [Nano-Factory]>",
 		"Only available <in cities without a [Composite Factory]>",
-		"Only available <in cities without a [Bio Facility]>"],
+		"Only available <in cities without a [Bio Facility]>"]
 		
 	},
     {
@@ -266,7 +266,7 @@
 		"Only available <if [EP-Genetic Engineering] is constructed>",
 		"Provides [1] [Composites]",
 		"[15]% Food is carried over after population increases [in this city]",
-		"Destroyed when the city is captured"
+		"Destroyed when the city is captured",
 		"Only available <in cities without a [Nano-Factory]>",
 		"Only available <in cities without a [Composite Factory]>",
 		"Only available <in cities without a [Spaceship Factory]>"]
@@ -278,10 +278,10 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 5,
 		"hurryCostModifier": 0,
-		"requiredTech": "Nanotechnology"
+		"requiredTech": "Nanotechnology",
 		"uniques": ["Consumes [3] [Power]",
 		"Provides [1] [Composites]",
-		"Destroyed when the city is captured"
+		"Destroyed when the city is captured",
 		"Only available <in cities without a [Composite Factory]>",
 		"Only available <in cities without a [Bio Facility]>",
 		"Only available <in cities without a [Spaceship Factory]>"]
@@ -297,10 +297,10 @@
 		"percentStatBonus": {"culture": 15,"science": 15,"gold": 15},
 		"specialistSlots": {"Spacefarer": 2},
 		"requiredTech": "Lasers",
-		"uniques": ["Consumes [3] [Power]","Space","[-15]% growth [in this city]","Destroyed when the city is captured"
+		"uniques": ["Consumes [3] [Power]","Space","[-15]% growth [in this city]","Destroyed when the city is captured",
 		"Only available <in cities without a [Nano-Factory]>",
-		"Only available <in cities without a [Bio Facility]>"
-		"Only available <in cities without a [Composite Factory]>"],
+		"Only available <in cities without a [Bio Facility]>",
+		"Only available <in cities without a [Composite Factory]>"]
 		
 	},
 	{
@@ -312,7 +312,7 @@
 		"uniques": ["Consumes [3] [Power]","Provides [4] [Composites]","[+50]% Production when constructing [Cyber] units [in this city]","Destroyed when the city is captured",
 		"Only available <if [EP-Cyber Engineering] is constructed>",
 		"Only available <in cities without a [Nano-Factory]>",
-		"Only available <in cities without a [Bio Facility]>"
+		"Only available <in cities without a [Bio Facility]>",
 		"Only available <in cities without a [Spaceship Factory]>"]
 	},
 	{
@@ -331,18 +331,18 @@
 		"cityHealth": 75,
 		"maintenance": 6,
 		"cost": 1120,
-		"uniques": ["Consumes [3] [Power]","Only available <if [SP-Future Power] is constructed>","Population loss from nuclear attacks [-25]% [in this city]","All newly-trained [Military] units [in this city] receive the [Energy Shield] promotion","Only available <in cities without a [Adaptive Base]>","Destroyed when the city is captured"],
+		"uniques": ["Consumes [3] [Power]","Only available <if [SP-Future Power] is constructed>","Population loss from nuclear attacks [-25]% [in this city]","All newly-trained [Military] units [in this city] receive the [Energy Shield] promotion","Only available <in cities without a [Adaptive Base]>","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Space Colony",
 		"percentStatBonus": {"culture": 25,"science": 25,"gold": 25},
 		"specialistSlots": {"Spacefarer": 2},
 		"requiredTech": "Spaceflight",
-		"requiredBuilding": "Space Station"
-		"uniques": ["Consumes [3] [Power]","Space","[-25]% growth [in this city]","Destroyed when the city is captured"
+		"requiredBuilding": "Space Station",
+		"uniques": ["Consumes [3] [Power]","Space","[-25]% growth [in this city]","Destroyed when the city is captured",
 		"Only available <in cities without a [Nano-Factory]>",
 		"Only available <in cities without a [Bio Facility]>",
-		"Only available <in cities without a [Composite Factory]>"],
+		"Only available <in cities without a [Composite Factory]>"]
 		
 	},
 //National Wonders
@@ -364,22 +364,21 @@
 		"name": "Information Warfare",
 		"isNationalWonder": true,
 		"requiredTech": "Artificial Intelligence",
-		"uniques": ["[Support] units gain the [Firewall] promotion"],
+		"uniques": ["[Support] units gain the [Firewall] promotion"]
 	},
 	{
 		"name": "Time Machine Blueprints",
 		"cost": 1600,
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Time Machine parts", "Triggers a global alert upon completion", 
-			"Only available <starting from the [Future era]>","Hidden when [Scientific] Victory is disabled"],
+			"Only available <starting from the [Future era]>","Hidden when [Scientific] Victory is disabled"]
 	},
 	{
 		"name": "Monolith Portal",
 		"cost": 1600,
 		"requiredTech": "Nanotechnology",
 		"isNationalWonder": true,
-		"uniques": ["Enables construction of Monolith Aliens","Must have an owned [Alien Monolith] within [3] tiles","Will not be displayed in Civilopedia"],
-		"requiredTech": "Lasers"
+		"uniques": ["Enables construction of Monolith Aliens","Must have an owned [Alien Monolith] within [3] tiles","Will not be displayed in Civilopedia"]
 	},
 //World Wonders
     {
@@ -389,7 +388,7 @@
 		"uniques": ["Provides [1] [Uranium]",
 		"Gain a free [Nuclear Testing Site] [in this city]",
 		"[+50]% Production when constructing [Atomic Bomb] units [in this city]",
-		"Free [Atomic Bomb] appears"]
+		"Free [Atomic Bomb] appears"],
 		"quote": "'The only use for an atomic bomb is to keep somebody else from using one.' - George Wald"
 	},
 	{
@@ -407,7 +406,7 @@
 		"culture": 5,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
-		"percentStatBonus": {"culture": 10}
+		"percentStatBonus": {"culture": 10},
 		"uniques": ["[-10]% Culture cost of adopting new Policies"],
 		"requiredTech": "Plastics",
 		"quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
@@ -417,7 +416,7 @@
 		"isWonder": true,
 		"uniques": ["Space","Free [Great Spacefarer] appears",
 		"[Great Spacefarer] is earned [100]% faster"],
-		"greatPersonPoints": {"Great Spacefarer":24}
+		"greatPersonPoints": {"Great Spacefarer":24},
 		"requiredTech": "Rocketry",
 		"quote": "'That's one small step for a man, one giant leap for mankind.' - Neil Armstrong"
 	},
@@ -427,7 +426,7 @@
 		"requiredTech": "Satellites",
 		"greatPersonPoints": {"Great Spacefarer": 2},
 		"uniques": ["Space",
-		"[2] free [Great Scientist] units appear"
+		"[2] free [Great Scientist] units appear",
 		"[+100]% Production when constructing [Space] buildings [in this city]"],
 		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
 	},
@@ -470,7 +469,7 @@
 		"uniques": ["Space",
 		"[+25]% Strength <for [Space] units>",
 		"[+2 Culture] from every specialist [in all cities]",
-	    "[+50]% Great Person generation [in all cities]"	
+	    "[+50]% Great Person generation [in all cities]"	,
 		"[+50]% Great Person generation [in this city]"],
 		"quote": "'It takes a planet to explore the universe.' - Dylan Taylor"
 	},
@@ -489,7 +488,7 @@
 		"cost": 2600,
 		"requiredTech": "Particle Physics",
 		"uniques": ["[Energy Infantry] units gain the [Teleportation] promotion",
-		"[Future Soldier] units gain the [Teleportation] promotion"
+		"[Future Soldier] units gain the [Teleportation] promotion",
 		"[Giant Death Robot] units gain the [Teleportation] promotion",
 		"[Stealth Hacker] units gain the [Teleportation] promotion"],
 		"quote": "'If I could teleport, I'd probably still be late.' - Anonymous"
@@ -562,7 +561,7 @@
 		"Only available <during the [Industrial era]>",
 		"Only available <with [Scientist Perk]>",
 		"Consumes [1] [Scientist Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "SP-Water Power",
@@ -575,7 +574,7 @@
 		"Only available <during the [Industrial era]>",
 		"Only available <with [Scientist Perk]>",
 		"Consumes [1] [Scientist Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "SP-Supply Chains",
@@ -587,7 +586,7 @@
 		"Only available <during the [Modern era]>",
 		"Only available <with [Scientist Perk]>",
 		"Consumes [1] [Scientist Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "SP-Corporate Chains",
@@ -599,7 +598,7 @@
 		"Only available <during the [Modern era]>",
 		"Only available <with [Scientist Perk]>",
 		"Consumes [1] [Scientist Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "SP-Medical Labs",
@@ -632,7 +631,7 @@
 		"uniques": ["Information Perk",
 		"[+2 Food] from every [Great Improvement] <during the [Information era]>",
 		"[+10]% [Food] from every [Hospital] <during the [Information era]>",
-		"[+10]% [Food] from every [Medical Lab] <during the [Information era]>"
+		"[+10]% [Food] from every [Medical Lab] <during the [Information era]>",
 		"Only available <during the [Information era]>",
 		"Only available <with [Scientist Perk]>",
 		"Consumes [1] [Scientist Perk]",
@@ -656,7 +655,7 @@
 		"uniques": ["Future Perk",
 		"[+5 Production] from [Solar Farm] tiles [in all cities]",
 		"[+5 Production] from [Wind Farm] tiles [in all cities]",
-		"[+5 Production] from [Offshore Wind Farm] tiles [in all cities]"
+		"[+5 Production] from [Offshore Wind Farm] tiles [in all cities]",
 		"Only available <during the [Future era]>",
 		"Only available <with [Scientist Perk]>",
 		"Consumes [1] [Scientist Perk]",
@@ -669,7 +668,7 @@
 		"uniques": ["Future Perk",
 		"Enables construction of [Energy Reactor] and [Energy Barrier]",
 		"[+100]% Production when constructing [Coal Plant] buildings [in all cities]",
-		"[+100]% Production when constructing [Nuclear Plant] buildings [in all cities]"
+		"[+100]% Production when constructing [Nuclear Plant] buildings [in all cities]",
 		"[+100]% Production when constructing [Energy Reactor] buildings [in all cities]",
 		"Only available <during the [Future era]>",
 		"Only available <with [Scientist Perk]>",
@@ -699,7 +698,7 @@
 		"Only available <during the [Industrial era]>",
 		"Only available <with [Artist Perk]>",
 		"Consumes [1] [Artist Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "AP-Museum Host",
@@ -719,7 +718,7 @@
 		"cost": 1,
 		"uniques": ["Modern Perk",
 		"[+50]% Production when constructing [Musician] units [in all cities] <during the [Modern era]>",
-		"[Gold] cost of purchasing [Musician] units [-25]% <during the [Modern era]>"
+		"[Gold] cost of purchasing [Musician] units [-25]% <during the [Modern era]>",
 		"[+15]% [Culture] from every [Public School] <during the [Modern era]>",
 		"Only available <during the [Modern era]>",
 		"Only available <with [Artist Perk]>",
@@ -736,7 +735,7 @@
 		"Only available <during the [Atomic era]>",
 		"Only available <with [Artist Perk]>",
 		"Consumes [1] [Artist Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "AP-World Competitions",
@@ -754,7 +753,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": ["Information Perk",
-		"[+25]% [Culture] from every [Foreign Center] <during the [Information era]>"
+		"[+25]% [Culture] from every [Foreign Center] <during the [Information era]>",
 		"[+25]% [Culture] from every [Public School] <during the [Information era]>",
 		"Only available <during the [Information era]>",
 		"Only available <with [Artist Perk]>",
@@ -768,7 +767,7 @@
 		"uniques": ["Information Perk",
 		"[+2 Happiness] from [Concert Venue] tiles [in all cities]",
 		"[+5 Faith, +1 Happiness] from all [Culture] buildings",
-		"[10]% of excess happiness converted to [Culture]"
+		"[10]% of excess happiness converted to [Culture]",
 		"Only available <during the [Information era]>",
 		"Only available <with [Artist Perk]>",
 		"Consumes [1] [Artist Perk]",
@@ -806,7 +805,7 @@
 		"Only available <during the [Industrial era]>",
 		"Only available <with [Engineer Perk]>",
 		"Consumes [1] [Engineer Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "EP-Extractor",
@@ -816,7 +815,7 @@
 		"Only available <during the [Industrial era]>",
 		"Only available <with [Engineer Perk]>",
 		"Consumes [1] [Engineer Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "EP-Early Vehicles",
@@ -828,7 +827,7 @@
 		"Only available <during the [Modern era]>",
 		"Only available <with [Engineer Perk]>",
 		"Consumes [1] [Engineer Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "EP-Distillery",
@@ -838,7 +837,7 @@
 		"Only available <during the [Modern era]>",
 		"Only available <with [Engineer Perk]>",
 		"Consumes [1] [Engineer Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "EP-Recycling",
@@ -850,7 +849,7 @@
 		"Only available <during the [Atomic era]>",
 		"Only available <with [Engineer Perk]>",
 		"Consumes [1] [Engineer Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "EP-Civil Planning",
@@ -863,7 +862,7 @@
 		"Only available <during the [Atomic era]>",
 		"Only available <with [Engineer Perk]>",
 		"Consumes [1] [Engineer Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "EP-Advanced Machinery",
@@ -884,7 +883,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": ["Information Perk",
-		"Gain a free [Free Power] [in all cities]"
+		"Gain a free [Free Power] [in all cities]",
 		"Only available <during the [Information era]>",
 		"Only available <with [Engineer Perk]>",
 		"Consumes [1] [Engineer Perk]",
@@ -978,7 +977,7 @@
 		"Only available <during the [Atomic era]>",
 		"Only available <with [Merchant Perk]>",
 		"Consumes [1] [Merchant Perk]",
-		"[-2 Culture] [in this city] <after adopting [Constitution]>"],
+		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
 	},
 	{
 		"name": "MP-International Aid",
@@ -1021,7 +1020,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": ["Future Perk",
-		"Enables construction of [Adaptive Base]"
+		"Enables construction of [Adaptive Base]",
 		"[+1 Food, +2 Gold] from every [Coast]",
 		"[+1 Food, +2 Gold] from every [Ocean]",
 		"Only available  <during the [Future era]>",
@@ -1140,7 +1139,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": ["Future Perk",
-		"[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+		"[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 		"[+4 Faith, +4 Gold] from every [Great Improvement]",
 		"Only available <during the [Future era]>",
 		"Only available <with [Prophet Perk]>",
@@ -1176,8 +1175,8 @@
 		"cost": 1,
 		"uniques": ["Industrial Perk",
 		"[+33]% Strength <for [Military] units> <during the [Industrial era]>",
-	    "[+17]% Strength <for [Military] units> <vs cities> <during the [Industrial era]>"	
-		"Only available <during the [Industrial era]>"
+	    "[+17]% Strength <for [Military] units> <vs cities> <during the [Industrial era]>",
+		"Only available <during the [Industrial era]>",
 		"Only available <with [General Perk]>",
 		"Consumes [1] [General Perk]",
 		"[-2 Culture] [in this city] <after adopting [Constitution]>"]
@@ -1238,7 +1237,7 @@
 		"uniques": ["Information Perk",
 		"[+100]% Production when constructing [Support] units [in all cities] <during the [Information era]>",
 		"[Gold] cost of purchasing [Support] units [-50]% <during the [Information era]>",
-		"[+33]% Strength <for [Support] units> <during the [Information era]>"
+		"[+33]% Strength <for [Support] units> <during the [Information era]>",
 		"Only available <during the [Information era]>",
 		"Only available <with [General Perk]>",
 		"Consumes [1] [General Perk]",
@@ -1287,15 +1286,15 @@
 		"uniques": ["Destroyed when the city is captured","Unbuildable","Unsellable"]
 	},
 	{
-		"name": "Free Iron"
+		"name": "Free Iron",
 		"uniques": ["Provides [1] [Iron]","Destroyed when the city is captured","Unbuildable","Unsellable"]
 	},
 	{
-		"name": "Free Oil"
+		"name": "Free Oil",
 		"uniques": ["Provides [1] [Oil]","Destroyed when the city is captured","Unbuildable","Unsellable"]
 	},
 	{
-		"name": "Free Power"
+		"name": "Free Power",
 		"uniques": ["Provides [1] [Power]","Destroyed when the city is captured","Unbuildable","Unsellable"]
 	},
 	{
@@ -1310,5 +1309,5 @@
 	{
 		"name": "Solar Plant",
 		"uniques": ["Future Expansion has no Solar Plant","Unbuildable","Will not be displayed in Civilopedia"]
-	},
+	}
 ]

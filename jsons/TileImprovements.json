@@ -32,9 +32,9 @@
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <if [Engineering Corporation] is constructed>",
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <after adopting [Safety Checks]>",
 		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]>",
-		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>"
+		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>",
 		"[+2 Gold] <within [1] tiles of a [Residential]>",
-		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>"
+		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>",
 		"[+2 Gold] <within [1] tiles of a [Residential]> <if [Engineering Corporation] is constructed>",
 		 "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "M"
@@ -54,9 +54,9 @@
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <if [Engineering Corporation] is constructed>",
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <after adopting [Safety Checks]>",
 		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]>",
-		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>"
+		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>",
 		"[+2 Gold] <within [1] tiles of a [Residential]>",
-		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>"
+		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>",
 		"[+2 Gold] <within [1] tiles of a [Residential]> <if [Engineering Corporation] is constructed>",
 		 "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "L"
@@ -139,7 +139,7 @@
 		"[+8 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>",
 		"[+8 Gold] <within [1] tiles of a [Residential]> <after adopting [Startups]>",
 		"[+8 Gold] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]>",
-		 "Pillaging this improvement yields approximately [+100 Gold]"]
+		 "Pillaging this improvement yields approximately [+100 Gold]"],
 		"shortcutKey": "O"
 	},
 	{
@@ -157,9 +157,9 @@
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <if [Engineering Corporation] is constructed>",
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <after adopting [Safety Checks]>",
 		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]>",
-		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>"
+		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>",
 		"[+2 Gold] <within [1] tiles of a [Residential]>",
-		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>"
+		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>",
 		"[+2 Gold] <within [1] tiles of a [Residential]> <if [Engineering Corporation] is constructed>",
 		 "Pillaging this improvement yields approximately [+30 Gold]"],
 		"shortcutKey": "W"
@@ -179,9 +179,9 @@
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <if [Engineering Corporation] is constructed>",
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <after adopting [Safety Checks]>",
 		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]>",
-		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>"
+		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>",
 		"[+2 Gold] <within [1] tiles of a [Residential]>",
-		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>"
+		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>",
 		"[+2 Gold] <within [1] tiles of a [Residential]> <if [Engineering Corporation] is constructed>",
 		 "Pillaging this improvement yields approximately [+30 Gold]"],
 		"shortcutKey": "S"
@@ -253,9 +253,9 @@
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <if [Engineering Corporation] is constructed>",
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <after adopting [Safety Checks]>",
 		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]>",
-		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>"
+		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>",
 		"[+2 Gold] <within [1] tiles of a [Residential]>",
-		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>"
+		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>",
 		"[+2 Gold] <within [1] tiles of a [Residential]> <if [Engineering Corporation] is constructed>",
 		 "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "O"
@@ -299,9 +299,9 @@
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <if [Engineering Corporation] is constructed>",
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <after adopting [Safety Checks]>",
 		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]>",
-		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>"
+		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>",
 		"[+2 Gold] <within [1] tiles of a [Residential]>",
-		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>"
+		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>",
 		"[+2 Gold] <within [1] tiles of a [Residential]> <if [Engineering Corporation] is constructed>",
 		"Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "C"
@@ -318,9 +318,9 @@
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <if [Engineering Corporation] is constructed>",
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]> <after adopting [Safety Checks]>",
 		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]>",
-		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>"
+		"[+2 Production] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]> <if [Engineering Corporation] is constructed>",
 		"[+2 Gold] <within [1] tiles of a [Residential]>",
-		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>"
+		"[+2 Gold] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>",
 		"[+2 Gold] <within [1] tiles of a [Residential]> <if [Engineering Corporation] is constructed>",
 		 "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "Q"
@@ -366,23 +366,23 @@
 		"name": "Water Tower",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 1,
-		"uniques": ["Infraestructure","Removes removable features when built","Pillaging this improvement yields approximately [+100 Gold]"]
+		"uniques": ["Infraestructure","Removes removable features when built","Pillaging this improvement yields approximately [+100 Gold]"],
 		"shortcutKey": "W"
 },
 {
 		"name": "Industrial Complex",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 1,
-		"uniques": ["Infraestructure","Removes removable features when built","Pillaging this improvement yields approximately [+100 Gold]"]
+		"uniques": ["Infraestructure","Removes removable features when built","Pillaging this improvement yields approximately [+100 Gold]"],
 		"shortcutKey": "I"
 },
 {
 		"name": "Residential",
 		"gold": 2,
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Infraestructure","Removes removable features when built","Pillaging this improvement yields approximately [+100 Gold]"]
+		"uniques": ["Infraestructure","Removes removable features when built","Pillaging this improvement yields approximately [+100 Gold]"],
 		"shortcutKey": "R"
-}
+},
 //Great Improvement
     {
 		"name": "Academy",
@@ -421,9 +421,9 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 4,
 		"uniques": ["Great Improvement",
-		"Provides [1] [Engineer Perk] <starting from the [Industrial era]>"
+		"Provides [1] [Engineer Perk] <starting from the [Industrial era]>",
 		"Removes removable features when built",
-		"[+1 Production] <after discovering [Chemistry]>"
+		"[+1 Production] <after discovering [Chemistry]>",
 		"[+1 Food, +1 Production] <within [1] tiles of a [Water Tower]>",
 		"[+1 Food, +1 Production] <within [1] tiles of a [Water Tower]> <after adopting [Safety Checks]>",
 		"[+2 Production] <within [1] tiles of a [Industrial Complex]>",
@@ -439,7 +439,7 @@
 		"gold": 4,
 		"uniques": ["Great Improvement",
 		"[+4 Gold] <after discovering [Economics]>",
-		"Provides [1] [Merchant Perk] <starting from the [Industrial era]>"
+		"Provides [1] [Merchant Perk] <starting from the [Industrial era]>",
 		"Removes removable features when built",
 		"[+1 Food, +2 Gold] <within [1] tiles of a [Water Tower]>",
 		"[+1 Food, +2 Gold] <within [1] tiles of a [Water Tower]> <after adopting [Safety Checks]>",
@@ -455,7 +455,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 6,
 		"uniques": ["Great Improvement",
-		"Provides [1] [Prophet Perk] <starting from the [Industrial era]>"
+		"Provides [1] [Prophet Perk] <starting from the [Industrial era]>",
 		"Removes removable features when built",
 		"[+1 Food, +1 Faith] <within [1] tiles of a [Water Tower]>",
 		"[+1 Food, +1 Faith] <within [1] tiles of a [Water Tower]> <after adopting [Safety Checks]>",
@@ -471,7 +471,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Great Improvement",
-			"Provides [1] [General Perk] <starting from the [Industrial era]>"
+			"Provides [1] [General Perk] <starting from the [Industrial era]>",
 			"Gives a defensive bonus of [100]%",
 			"Adjacent enemy units ending their turn take [30] damage",
 			"Can be built just outside your borders",
@@ -495,7 +495,7 @@
 		"[+2 Gold, +1 Culture, +1 Science] <within [1] tiles of a [Residential]>",
 		"[+2 Gold, +1 Culture, +1 Science] <within [1] tiles of a [Residential]> <after adopting [Safety Checks]>",
 		"[+2 Gold, +1 Culture, +1 Science] <within [1] tiles of a [Citadel]> <after adopting [Coalition Complete]>",
-		"Pillaging this improvement yields approximately [+40 Gold]"
+		"Pillaging this improvement yields approximately [+40 Gold]",
 		"Removes removable features when built"]
 	},
 	//Civilization-Unique
@@ -563,5 +563,5 @@
 		 "Pillaging this improvement yields approximately [+18 Gold]"],
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
-	},
+	}
 ]
