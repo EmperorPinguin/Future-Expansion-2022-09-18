@@ -77,7 +77,7 @@
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			}
 		]
-	}
+	},
 	{
 		"columnNumber": 14,
 		"era": "Atomic era",
@@ -232,7 +232,7 @@
 	{
 		"columnNumber": 18,
 		"era": "Future era",
-		"techCost": 10000
+		"techCost": 10000,
 		"buildingCost": 1120,
 		"wonderCost": 2360,
 		"techs": [
@@ -252,7 +252,7 @@
 				"name": "Clean Energy",
 				"row": 5,
 				"prerequisites": ["Nanotechnology","Lasers"],
-				"uniques": ["+3 Power to Buildings that provide it"]
+				"uniques": ["+3 Power to Buildings that provide it"],
 				"quote": "'For an impenetrable shield, stand inside yourself.' - Henry David"
 			},
 			{
@@ -260,15 +260,15 @@
 				"row": 7,
 				"prerequisites": ["Lasers","Automation"],
 				"quote": "'Space is to place as eternity is to time.' - Joseph Joubert"
-			}
+			},
 			{
 				"name": "Nuclear Fusion",
 				"row": 9,
 				"prerequisites": ["Automation"],
 				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
-			},
+			}
 		]
-	}
+	},
 	{
 		"columnNumber": 19,
 		"era": "Beyond the Future",
@@ -288,7 +288,7 @@
 				"prerequisites": ["Metagenetics","Terraforming","Clean Energy","Spaceflight","Nuclear Fusion"],
 				"uniques": ["Go beyond the Future", "Can be continually researched"],
 				"quote": "'But to understand the future. We have to go back in time' - Pitbull"
-			}
+			},
 			{
 				"name": "Particle Physics",
 				"row": 8,
